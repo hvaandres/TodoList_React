@@ -1,0 +1,16 @@
+{
+  "name": "todolistv2",
+  "version": "1.0.0",
+  "description": "Todo-List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "keywords": [
+    "react",
+    "todolist_project"
+  ],
+  "author": "Alan A. Haro",
+  "license": "ISC"
+}
