@@ -12,5 +12,8 @@
     "todolist_project"
   ],
   "author": "Alan A. Haro",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-icons": "^3.11.0"
+  }
 }
